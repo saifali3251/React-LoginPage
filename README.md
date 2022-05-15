@@ -78,17 +78,22 @@ A login page made using React Framework. The input values are being validated ba
   - For Email field to be valid, input must be of type Email
   - For Password field to be valid, the passowrd length must be of length greater than 6
   - For Login button to be active, both the fields be validated
-
+  
+  
+ 
+  
+Login Page
 ![image](https://user-images.githubusercontent.com/37900854/168489681-25b24fbf-27c0-4bd6-8b4d-6cad854aeef9.png)
 
 
-
+Invalid Fields hence the login button is inActive(highlighted as Red)
 ![image](https://user-images.githubusercontent.com/37900854/168489712-058ea890-cb0a-4a95-bce7-bab7e7c151ff.png)
 
-
+(Valid fields and hence the login button is active)
 ![image](https://user-images.githubusercontent.com/37900854/168489726-e8df8a8d-0ebd-4a1b-8e7c-5c53c6d74ca4.png)
 
 
+After Successfully Login
 ![image](https://user-images.githubusercontent.com/37900854/168489735-777fbfce-312d-4f9b-a578-e4941618d843.png)
 
 
